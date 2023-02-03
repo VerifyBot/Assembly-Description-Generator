@@ -1,4 +1,4 @@
-# DOS-8086-Description-Generator
+# Assembly-8086-Description-Generator
 Simple Python program to automatically create pretty descriptions for:
 
 ## Stack State
